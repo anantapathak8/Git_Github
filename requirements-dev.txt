@@ -1,0 +1,7 @@
+# Development & Linting Dependencies (Optional)
+# The core test suite runs with Python's standard library (unittest) with zero dependencies.
+
+flake8>=6.0.0
+black>=23.0.0
+ruff>=0.1.0
+
