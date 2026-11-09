@@ -61,8 +61,6 @@ This repository serves as a **portfolio-grade engineering laboratory**. It coupl
 └────────────────────────────┴────────────────────────────┴────────────────────────────────────────┘
 ```
 
----
-
 ## Repository Architecture
 
 ```text
