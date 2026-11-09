@@ -12,7 +12,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Project Overview & Learning Objectives](#-project-overview--learning-objectives)
 2. [Key Competencies & Skills Acquired](#-key-competencies--skills-acquired)
 3. [Repository Architecture](#-repository-architecture)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 Project Overview & Learning Objectives
+## Project Overview & Learning Objectives
 
 In advanced robotics stacks (such as ROS2 navigation, PX4 autopilot, SLAM nodes) and applied artificial intelligence pipelines (e.g., PyTorch vision models, inference agents), software engineering reliability is paramount. Distributed engineering teams cannot afford broken main branches, lost commits, or unreviewed code changes.
 
@@ -44,7 +44,7 @@ This repository serves as a **portfolio-grade engineering laboratory**. It coupl
 
 ---
 
-## 🧠 Key Competencies & Skills Acquired
+## Key Competencies & Skills Acquired
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -63,7 +63,7 @@ This repository serves as a **portfolio-grade engineering laboratory**. It coupl
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
 ```text
 Git_GitHub_Week03/
@@ -115,7 +115,7 @@ Git_GitHub_Week03/
 
 ---
 
-## 🗺️ Suggested Learning Sequence
+## Suggested Learning Sequence
 
 For optimal mastery, follow this 7-day progression during Week 3:
 
@@ -134,7 +134,7 @@ For optimal mastery, follow this 7-day progression during Week 3:
 
 ---
 
-## 🧪 The 12 Practical Challenges
+## The 12 Practical Challenges
 
 Every challenge module in `practice_lab/` is equipped with **Objectives, Prerequisites, Step-by-Step Instructions, Exact PowerShell Commands, Expected Outputs, Verification Steps, Common Mistakes & Solutions, and Completion Checklists**:
 
@@ -157,7 +157,7 @@ Track your progress across all challenges using the **[36-Challenge Verification
 
 ---
 
-## 🐍 Python Demonstration Modules
+## Python Demonstration Modules
 
 The codebase under `src/` provides clean, tested demonstration utilities designed to be modified during Git branching, merging, and conflict exercises.
 
@@ -189,7 +189,7 @@ python src/greeting.py
 
 ---
 
-## 🧪 Automated Unit Testing Suite
+## Automated Unit Testing Suite
 
 The project utilizes Python's built-in `unittest` framework with zero external dependencies.
 
@@ -213,7 +213,7 @@ python tests/test_greeting.py
 
 ---
 
-## 📑 Engineering Documentation Index
+## Engineering Documentation Index
 
 - **[GIT_WORKFLOW.md](GIT_WORKFLOW.md)**: Deep dive into Git Flow, GitHub Flow, Trunk-Based Development, branch taxonomy, and Conventional Commits.
 - **[GIT_CHEATSHEET.md](GIT_CHEATSHEET.md)**: Comprehensive command quick reference card.
@@ -225,7 +225,7 @@ python tests/test_greeting.py
 
 ---
 
-## ⚡ Git Quick Reference & Command Cheat Sheet
+## Git Quick Reference & Command Cheat Sheet
 
 ```powershell
 # === INITIALIZATION & CONFIGURATION ===
@@ -273,13 +273,15 @@ git push origin --tags                        # Push all local tags to GitHub
 
 ---
 
-## 🎓 Academic Context & Author Notes
+## Academic Context & Author Notes
 
-This project forms **Week 3** of an intensive 4-week Python and Software Engineering acceleration program:
-- **Week 1**: Python Fundamentals, Data Structures & Algorithmic Foundations
-- **Week 2**: Object-Oriented Programming (OOP) & Clean Architecture
-- **Week 3**: **Git, GitHub, Collaboration & Professional Engineering Workflow (This Project)**
-- **Week 4**: Capstone Robotics & Artificial Intelligence Autonomous Application
+This project is **Week 3** of a structured 4-week Python and Software Engineering learning program:
 
-**Author**: B.Tech Robotics & Artificial Intelligence Engineering Student  
-**License**: MIT License — open for academic and professional reference.
+- **Week 1:** Python Fundamentals, Data Structures & Algorithmic Foundations
+- **Week 2:** Object-Oriented Programming (OOP), Modules, Exception Handling & File Management
+- **Week 3:** **Git, GitHub, Version Control, Collaboration & Professional Engineering Practices** *(This Project)*
+- **Week 4:** Capstone Project — Building a Python-based CLI Expense Tracker with JSON Persistence, Testing & Documentation
+
+**Author:** B.Tech Computer Science Engineering Student, specializing in Robotics & Artificial Intelligence  
+**Academic Focus:** Software Development, Robotics, Artificial Intelligence & Cybersecurity  
+**License:** MIT License — Open for academic learning, reference and collaboration.
