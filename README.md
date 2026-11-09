@@ -111,7 +111,6 @@ Git_GitHub_Week03/
         └── feature_request.md         # Structured feature proposal form for robotics/AI utilities
 ```
 
----
 
 ## Suggested Learning Sequence
 
